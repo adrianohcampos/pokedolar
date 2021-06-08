@@ -184,7 +184,6 @@ $titlepage = "PokeDólar - #" . $pokemon->id . " " . strtoupper($pokemon->name);
             </div>
         </div>
     </section>
-
 </body>
 
 </html>
